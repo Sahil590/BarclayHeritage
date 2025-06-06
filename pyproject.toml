@@ -1,11 +1,12 @@
 [tool.poetry]
-name = "myproject"
+name = "barclay_heritage"
 version = "0.1.0"
 description = ""
-authors = ["Jane Doe <jane_doe@some_email.com>"]
+authors = ["Sahil Raja <Sahilraja100@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.12"
+django = "^5.2.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^8.2"
